@@ -139,3 +139,4 @@ dmypy.json
 cython_debug/
 
 /auth.json
+/.idea
